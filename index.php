@@ -1,3 +1,7 @@
+<?php
+// PHP blok počinje na početku dokumenta prije deklaracije!
+?>
+
 <!DOCTYPE html>
 <html lang="hr">
 <head>
